@@ -1,0 +1,1002 @@
+[
+    {
+        "signal": "ATL2",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-06-13 22:40:10",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL3",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-04-10 10:16:55",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL6",
+        "value": "75.361",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-04-21 07:55:28",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-05-13 06:22:35",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL6",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "2017-07-21 20:20:21",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "2017-07-26 16:35:11",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "2017-05-18 03:51:34",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL3",
+        "value": "65.236",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-02-18 16:49:03",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL4",
+        "value": "5.128",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL10",
+        "value": "46.691",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-07-14 19:13:37",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "2017-04-21 16:22:11",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL8",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-01-10 01:13:47",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "48.987",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL5",
+        "value": "2017-06-20 10:53:20",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "54.026",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-10-06 04:19:46",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "12.515",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL5",
+        "value": "34.458",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL10",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "5.534",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "79.476",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "84.813",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-08-09 15:44:47",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-08-20 07:25:29",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "2017-08-02 05:20:21",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL4",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-07-15 02:40:17",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "63.679",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "34.937",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-05-29 14:58:42",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "23.512",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "10.712",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "2017-09-15 05:52:58",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "76.395",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "2017-05-02 17:26:18",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-10-08 11:42:36",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-07-26 11:42:51",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-05-15 01:37:18",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL6",
+        "value": "88.602",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL6",
+        "value": "92.739",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "29.529",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "2017-08-02 21:18:13",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL5",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-05-17 02:27:57",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "2017-09-22 03:24:18",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "26.025",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "51.779",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "13.381",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL6",
+        "value": "98.069",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "17.263",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "2017-10-04 18:12:22",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-01-19 23:08:25",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL8",
+        "value": "55.558",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-07-04 17:39:19",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "83.678",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL10",
+        "value": "50.377",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "1.432",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "50.096",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "24.831",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-08-15 06:26:17",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "2017-09-17 17:50:42",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL3",
+        "value": "0.632",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-02-22 09:42:17",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "25.096",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-08-22 19:23:20",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "49.989",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-07-24 18:02:12",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "48.584",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "2017-08-13 01:16:03",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "13.292",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-09-14 21:38:09",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "65.006",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "63.368",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL6",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "86.448",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "99.571",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-01-25 13:03:43",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL6",
+        "value": "81.376",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-08-28 09:20:21",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "45.66",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL5",
+        "value": "53.429",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL7",
+        "value": "97.328",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-05-27 15:55:49",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-05-04 04:48:18",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL8",
+        "value": "2017-03-13 06:13:41",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-06-12 22:10:18",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-01-10 12:51:10",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "3.3",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "36.609",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL7",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL5",
+        "value": "78.006",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL5",
+        "value": "18.849",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-09-28 17:57:59",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-01-08 05:44:30",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-02-20 03:52:20",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-01-16 17:22:30",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-10-09 02:06:30",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL3",
+        "value": "24.193",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-03-05 03:39:40",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "56.679",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "40.472",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL2",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL8",
+        "value": "82.074",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "60.58",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "2017-04-26 03:45:58",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-04-01 13:29:31",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "2017-09-30 17:31:23",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL8",
+        "value": "92.425",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-04-01 22:08:57",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "72.677",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL4",
+        "value": "19.937",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL5",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-08-28 22:21:13",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL9",
+        "value": "92.812",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "HIGH",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "66.747",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL6",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL10",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL2",
+        "value": "2017-03-19 02:47:28",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL10",
+        "value": "2017-07-10 09:59:09",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-08-21 17:07:40",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-02-23 20:53:00",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL6",
+        "value": "2017-07-27 02:00:32",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "5.504",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL4",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL3",
+        "value": "50.117",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL3",
+        "value": "2017-08-30 20:06:27",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL9",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL7",
+        "value": "2017-08-04 06:02:04",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL1",
+        "value": "2017-06-25 09:32:40",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL4",
+        "value": "12.49",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "21.0",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL8",
+        "value": "2017-04-04 19:14:59",
+        "value_type": "Datetime"
+    },
+    {
+        "signal": "ATL7",
+        "value": "17.574",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL6",
+        "value": "LOW",
+        "value_type": "String"
+    },
+    {
+        "signal": "ATL1",
+        "value": "46.593",
+        "value_type": "Integer"
+    },
+    {
+        "signal": "ATL10",
+        "value": "89.241",
+        "value_type": "Integer"
+    }
+]

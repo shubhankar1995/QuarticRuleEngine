@@ -1,0 +1,7 @@
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\bin\Debug\Quartic_Rule_Engine.exe.config
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\bin\Debug\Quartic_Rule_Engine.exe
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\bin\Debug\Quartic_Rule_Engine.pdb
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\obj\Debug\Quartic_Rule_Engine.csprojResolveAssemblyReference.cache
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\obj\Debug\Quartic_Rule_Engine.exe
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\obj\Debug\Quartic_Rule_Engine.pdb
+c:\users\shubhankar_mathur\documents\visual studio 2013\Projects\Quartic_Rule_Engine\Quartic_Rule_Engine\bin\Debug\Newtonsoft.Json.dll
